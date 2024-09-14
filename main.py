@@ -41,7 +41,7 @@ if __name__ == '__main__':
 
 # pyinstaller --paths "D:\project\工具开发\代码混淆" main.py
 
-
+# pyi-makespec -F --name 代码混淆 main.py 
 
 # 2.删除文件夹
 # Remove-Item -Recurse -Force "build"
